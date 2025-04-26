@@ -1,1 +1,1 @@
-# bolt-mock
+# edu-admin-mock
